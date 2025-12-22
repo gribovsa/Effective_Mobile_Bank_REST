@@ -30,8 +30,8 @@
 <ul>
   <li>
     <strong>Клонируйте репозиторий:</strong>
-    <pre><code>git clone https://github.com/timkatima/BankREST
-cd BankREST</code></pre>
+    <pre><code>git clone https://github.com/gribovsa/Effective_Mobile_Bank_REST.git
+cd Effective_Mobile_Bank_REST</code></pre>
   </li>
 
   <li>
